@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+frames/
+runs/
+dist/
+*.wav
+*.mp4
+*.m4a
+*.srt
